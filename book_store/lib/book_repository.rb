@@ -19,3 +19,4 @@ class BookRepository
   
       # Returns a single Book object.
     end
+end    
